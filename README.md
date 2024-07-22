@@ -2,6 +2,8 @@
 ![GitHub All Releases](https://img.shields.io/github/downloads/hanwckf/rt-n56u/total)
 [![release](https://img.shields.io/github/release/hanwckf/rt-n56u.svg)](https://github.com/hanwckf/rt-n56u/releases)
 
+个人自用版  只保留路由器基本功能  修改时间20240722
+
 # README #
 
 Welcome to the rt-n56u project
